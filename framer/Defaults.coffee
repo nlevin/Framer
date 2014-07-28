@@ -9,7 +9,7 @@ Originals =
 		height: 100
 	Animation:
 		curve: "linear"
-		time: 1
+		time: 0.25
 
 exports.Defaults =
 
