@@ -34,3 +34,4 @@ exports.Defaults =
 
 	reset: ->
 		window.Framer.Defaults = _.clone Originals
+		
